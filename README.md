@@ -2,7 +2,7 @@
 
 A simple web app to understand how mysql & nodeJS works together.
 
-###TECH STACK
+### TECH STACK
 + nodeJS
 + mysql
 
